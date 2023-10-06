@@ -8,9 +8,9 @@
 
 .profile-cirlce{
     background-image: url(img/download.png);
-    background-size: 400px;
-    width: 400px;
-    height: 400px;
+    background-size: 350px;
+    width: 350px;
+    height: 350px;
     border: 2px solid white;
     border-radius: 200px;
 }
@@ -61,7 +61,6 @@
     margin: 0;
     padding: 0;
 }
-
 
 .Project-card{
     width: 280px;

@@ -1,7 +1,7 @@
 
 var typed = new Typed (".autoType",{
-    strings : ["Full Stack Web Developer", "Full Stack Java Developer"],
-    typeSpeed : 80,
-    backSpeed : 50,
+    strings : ["Web Developer", "Front-End Developer", "Back-End Developer soon"],
+    typeSpeed : 30,
+    backSpeed : 30,
     loop :  true
 });
