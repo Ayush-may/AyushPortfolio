@@ -110,6 +110,10 @@ a:hover{
 }
 
 @media screen and (max-width:500px){
+    .project-container{
+        gap: 30px !important;
+    }
+ 
     .profile-cirlce{
         margin-top: 20px;
         width: 200px;
