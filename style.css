@@ -109,6 +109,12 @@ a:hover{
     /* transform: scale(1.05); */
 }
 
+.footer{
+    background: tomato;
+    width: 100%;
+    /* height: 50px; */
+}
+
 @media screen and (max-width:500px){
     .project-container{
         gap: 30px !important;
