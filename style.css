@@ -213,3 +213,18 @@ a.project-link-card:hover {
         font-size: 20px;
     }
 }
+
+.attention {
+    width: 100%;
+    height: auto;
+    padding: 10px;
+    background: black;
+    margin: 0;
+}
+
+.attention h2 {
+    color: white;
+    text-align: center;
+    font-size: 1rem;
+    padding: 0;
+}
